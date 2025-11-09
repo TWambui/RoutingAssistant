@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-[Watch the demo](https://www.youtube.com/watch?v=tFObc_97joc)
+[![Watch the demo](https://img.youtube.com/vi/tFObc_97joc/0.jpg)](https://www.youtube.com/watch?v=tFObc_97joc)
 
 An AI-powered agent that helps determine whether you should leave for a location based on the origin and destination. The agent leverages mapping and AI tools to provide real-time travel insights.
 
