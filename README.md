@@ -6,6 +6,7 @@ Installation
 install uv 
 uv init .
 uv add python-dotenv langgraph "langchain[anthropic]" ipykernel langchain-openai osmnx
-uv add scikit-learn
+uv add scikit-learn matplotlib
 
 add keys to the .env file
+
