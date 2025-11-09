@@ -3,7 +3,7 @@
 ## Demo Video
 
 ```markdown
-[Demo Video](demo.mp4)
+[!Demo Video](demo.mp4)
 
 An AI-powered agent that helps determine whether you should leave for a location based on the origin and destination. The agent leverages mapping and AI tools to provide real-time travel insights.
 
