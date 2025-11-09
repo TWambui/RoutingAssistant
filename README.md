@@ -46,5 +46,3 @@ uv run main_.py
 
 Follow the prompts to input your origin and destination locations. The AI agent will analyze and provide a recommendation on whether to leave.
 
-```
-
